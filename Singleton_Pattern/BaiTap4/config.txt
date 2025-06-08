@@ -1,0 +1,1 @@
+jdbc:sqlserver://localhost;databaseName=quanlihocsinh;user=sa;password=1;encrypt=true;trustServerCertificate=true
